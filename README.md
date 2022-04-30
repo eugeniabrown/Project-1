@@ -15,10 +15,10 @@
 ## Необходимые файлы и ссылки
 
 ### Данные
-Пожалуйста, скачайте csv файлы с моего гугл-диска по этой [ссылке](https://drive.google.com/drive/folders/1sZdRQxi4I9q4qXVmaB4IJiqGlxx-VGAe?usp=sharing)
+Пожалуйста, скачайте csv файлы с моего гугл-диска по этой [ссылке.](https://drive.google.com/drive/folders/1sZdRQxi4I9q4qXVmaB4IJiqGlxx-VGAe?usp=sharing)
 
 ### Ноутбук
-По [этой ссылке](https://github.com/eugeniabrown/Project-1/blob/main/Project%201.ipynb) вы найдете ноутбук со всеми выполнеными заданиями
+По [этой ссылке](https://github.com/eugeniabrown/Project-1/blob/main/Project%201.ipynb) вы найдете ноутбук со всеми выполнеными заданиями.
 
 ### Графики
 Большинство графиков выполнены в plotly, поэтому [прикладываю ccылку на папку](https://github.com/eugeniabrown/Project-1/tree/main/plotly) с html файлами этих графиков.
