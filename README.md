@@ -22,3 +22,5 @@
 
 ### Графики
 Большинство графиков выполнены в plotly, поэтому [прикладываю ccылку на папку](https://github.com/eugeniabrown/Project-1/tree/main/plotly) с html файлами этих графиков.
+
+Если графики не откроются в html формате, вот [ссылка](https://github.com/eugeniabrown/Project-1/tree/main/plotly%20images) на изображения графиков.
